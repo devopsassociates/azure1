@@ -1,3 +1,8 @@
 #!/usr/bin/perl
 
-print "test";
+while(<>) {
+
+print $_, "test";
+
+}
+
